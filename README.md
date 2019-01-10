@@ -7,7 +7,8 @@ Golang으로 만들어보고 싶었지만 자료가 부족한 관계로 상대�
 ## 개발환경  
 - javaScript
 - nodeJS
-- 카카오톡 플러스친구
+- ~~카카오톡 플러스친구~~ ~~망했어요~~
+- 라인 또는 텔레그램 봇 api
 
 ## 참고자료
 - [AWS + NodeJS + 카카오톡챗봇](http://adg0609.tistory.com/10?category=683393)
