@@ -1,0 +1,19 @@
+{
+  "name": "howmuchyourmeal",
+  "version": "1.0.0",
+  "description": "Toy project for procrastinator\r 이 프로젝트는 퇴근해서 아무것도 안하는 내가 무엇이라도 하기 위해서 만든 프로젝트이다.  \r 마찬가지로 회사에서도 아무것도 안하기 때문에 오늘 밥값을 했냐고 주기적인 알람을 보내주는 챗봇을 만들어볼 예정이다.  \r Golang으로 만들어보고 싶었지만 자료가 부족한 관계로 상대적으로 자료가 많은 JS로 시작할 예정이다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dohun94/HowMuchYourMeal.git"
+  },
+  "author": "blackdog11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dohun94/HowMuchYourMeal/issues"
+  },
+  "homepage": "https://github.com/dohun94/HowMuchYourMeal#readme"
+}
