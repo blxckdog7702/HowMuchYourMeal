@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dohun94/HowMuchYourMeal/issues"
   },
-  "homepage": "https://github.com/dohun94/HowMuchYourMeal#readme"
+  "homepage": "https://github.com/dohun94/HowMuchYourMeal#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
